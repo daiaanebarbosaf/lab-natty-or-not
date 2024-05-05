@@ -1,11 +1,8 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🎯Como identificar se um conteúdo é feito por uma IA Generativa?
-
 > Woooow! Look at this 👀
 
-
-# Título do Projeto Extremamente Aesthetic ;)
+# 🎯Como identificar se um conteúdo é feito por uma IA Generativa?
 
 ## 📒 Descrição
 Este projeto é uma pesquisa em IAs de como identifica-lás em meio a tantos conteúdos de qualidade criado por elas. Hoje a perfeição é tanta que ás vezes nem conseguimos perceber as diferenças.
